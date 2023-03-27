@@ -1,6 +1,6 @@
 ### Hi there, I'm [Fathurrahman](https://github.com/nersus15)! 👋
 
-- 🌱 I’m currently code Laravel, Codeigniter, VueJS, ReactJS, NodeJS, React Native, & Flutter.
+- 🌱 I’m currently code Laravel, Codeigniter & Flutter.
 - 📫 How to reach me: Reach out to me directly through my [Instagram](https://t.me/fathur_ashter15) or [Facebook](https://web.facebook.com/fathur.ashter15/)
 - 😄 Pronouns: he/him.
 
